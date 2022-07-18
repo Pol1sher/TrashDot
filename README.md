@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Pol1sher/TrashDot">
-    <img src="logo.svg" width="400">
+    <img src="logo_outlined.svg" width="400">
   </a>
 </p>
 
