@@ -65,7 +65,7 @@ Optional - libudev (build with udev=yes).
 [See the official godot docs](https://docs.godotengine.org/en/latest/development/compiling/)
 for compilation instructions for every supported platform.
 
-## Documentation and demos
+## Documentation
 
 The official documentation is hosted on [ReadTheDocs](https://docs.godotengine.org).
 It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
