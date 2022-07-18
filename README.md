@@ -11,7 +11,7 @@
 **TrashDot Engine is a feature-packed, cross-platform
 game engine to create 2D and 3Dish games from a unified interface.** It provides a
 comprehensive set of common tools, so that users can focus on making games
-without having to reinvent the wheel. Games can be exported with one click to a
+without having to reinvent the wheel(unless you want to do 3D). Games can be exported with one click to a
 number of platforms, including the major desktop platforms (Linux, macOS,
 Windows), mobile platforms (Android, iOS), as well as Web-based platforms
 (HTML5).
