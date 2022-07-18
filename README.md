@@ -1,7 +1,7 @@
 # TrashDot Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
+  <a href="https://github.com/Pol1sher/TrashDot">
     <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
   </a>
 </p>
