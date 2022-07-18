@@ -23,9 +23,35 @@ to the last line of engine code.
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
-### Compiling from source
+### Compiling for Windows
 
-[See the official docs](https://docs.godotengine.org/en/latest/development/compiling/)
+## Requirements
+
+[Visual Studio Community](https://www.visualstudio.com/vs/community/), version 2017 or later. VS 2019 is recommended.
+
+[MinGW-w64](http://mingw-w64.org/) with GCC can be used as an alternative to Visual Studio. Be sure to install/configure it to use the posix thread model. Important: When using MinGW to compile the master branch, you need GCC 9 or later.
+
+[Python 3.5+](https://www.python.org/downloads/windows/) Make sure to enable the option to add Python to the ``PATH`` in the installer.
+
+[SCons](https://www.scons.org/) build system. Using the latest release is recommended, especially for proper support of recent Visual Studio releases.
+
+### Compiling for Linux
+
+## Requirements
+For compiling under Linux or other Unix variants, the following is required:
+GCC 7+ or Clang 6+.
+Python 3.5+.
+SCons 3.0+ build system. If your distribution uses Python 2 by default, or you are using a version of SCons prior to 3.1.2, you will need to change the version of Python that SCons uses by changing the shebang (the first line) of the SCons script file to #! /usr/bin/python3. Use the command which scons to find the location of the SCons script file.
+pkg-config (used to detect the dependencies below).
+X11, Xcursor, Xinerama, Xi and XRandR development libraries.
+MesaGL development libraries.
+ALSA development libraries.
+PulseAudio development libraries.
+Optional - libudev (build with udev=yes).
+
+### Compiling from Source for other systems
+
+[See the official godot docs](https://docs.godotengine.org/en/latest/development/compiling/)
 for compilation instructions for every supported platform.
 
 ## Documentation and demos
