@@ -21,7 +21,7 @@ TrashDot is completely free and open source under the very permissive MIT licens
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code.
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
+!<img src="Window.png" width="1200">
 
 ## Compiling for Windows
 
