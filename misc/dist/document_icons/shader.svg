@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1024"
+   width="1024"
+   version="1.1"
+   id="svg15740"
+   sodipodi:docname="shader.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata15746">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15744">
+    <linearGradient
+       id="linearGradient2126">
+      <stop
+         id="stop2128"
+         style="stop-color:#bcc6e2"
+         offset="0" />
+      <stop
+         id="stop2130"
+         style="stop-color:#7a879d"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2118"
+       y2="41.229"
+       gradientUnits="userSpaceOnUse"
+       y1="26.070999"
+       gradientTransform="scale(2.7312,0.36614)"
+       x2="16.211"
+       x1="2.796">
+      <stop
+         id="stop2122"
+         style="stop-color:#7c819f"
+         offset="0" />
+      <stop
+         id="stop2124"
+         style="stop-color:#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2110"
+       y2="56.445999"
+       gradientUnits="userSpaceOnUse"
+       y1="35.025002"
+       gradientTransform="scale(0.97377,1.0269)"
+       x2="60.275002"
+       x1="7.7020001">
+      <stop
+         id="stop2106"
+         style="stop-color:#dcdeed"
+         offset="0" />
+      <stop
+         id="stop2108"
+         style="stop-color:#9fa8bd"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15742"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="507.37203"
+     inkscape:cy="305.11257"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15740" />
+  <path
+     d="M812.681 293.783c-23.575-32.543-141.93-39.865-197.505-34.983 2.17-68.048 31.457-117.656-37.966-177.026M161.89 49.151H464c77.128-2.02 126.554 37.835 178.444 84.881l123.665 109.83c63.819 56.94 89.13 110.625 96 188.174v542.886H161.89z"
+     fill="#eff1f5"
+     stroke="#9f9fa1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="19.603"
+     id="path15732" />
+  <path
+     d="M640.44 348.066c-10.54 0-21.102 4.097-29.145 12.276l-35.64 36.254-47.725 48.529h-.004l-47.676 48.53-33.98 34.546 13.744 13.98h89.002l47.675-48.529 47.723-48.527h.006l25.12-25.543c6.375-6.486 10.147-14.571 11.468-22.986h-.002c2.01-12.81-1.762-26.38-11.469-36.254-8.042-8.18-18.558-12.276-29.098-12.276zM460.013 542.184l44.502 45.257 44.5-45.257h-89.002zm-46.848 13.834c-9.932.124-18.509 4.228-24.668 11.236-5.21 5.927-8.55 14.024-9.668 23.459-.254 2.153-.52 4.295-.52 6.588 0 33.842-55.28 6.971-28.53 41.94h117.626c6.64-15.57 5.836-33.447-2.13-48.528h-.003c-2.48-4.695-5.392-9.213-9.289-13.176-13.348-13.578-26.713-20.143-38.48-21.326h-.002a38.536 38.536 0 0 0-4.336-.193zm-63.387 83.224c4.467 5.84 10.605 12.952 20.33 22.844 21.446 21.814 64.428 16.264 85.875-5.547 5.035-5.12 8.751-11.034 11.422-17.297H349.78z"
+     style="fill:#e0626b;fill-opacity:1"
+     id="path15738" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.18777466px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.80469441"
+     x="249.57201"
+     y="876.78296"
+     id="text16409"><tspan
+       sodipodi:role="line"
+       id="tspan16407"
+       x="249.57201"
+       y="876.78296"
+       style="stroke-width:2.80469441">SHADER</tspan></text>
+</svg>
