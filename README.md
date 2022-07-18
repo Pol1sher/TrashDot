@@ -21,7 +21,7 @@ TrashDot is completely free and open source under the very permissive MIT licens
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code.
 
-!<img src="Window.png" width="1200">
+<img src="Window.png" width="1200">
 
 ## Compiling for Windows
 
