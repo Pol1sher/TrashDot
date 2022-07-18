@@ -39,15 +39,26 @@ to the last line of engine code.
 
 ## Requirements
 For compiling under Linux or other Unix variants, the following is required:
+
+
 GCC 7+ or Clang 6+.
+
 Python 3.5+.
+
 SCons 3.0+ build system. If your distribution uses Python 2 by default, or you are using a version of SCons prior to 3.1.2, you will need to change the version of Python that SCons uses by changing the shebang (the first line) of the SCons script file to #! /usr/bin/python3. Use the command which scons to find the location of the SCons script file.
+
 pkg-config (used to detect the dependencies below).
+
 X11, Xcursor, Xinerama, Xi and XRandR development libraries.
+
 MesaGL development libraries.
+
 ALSA development libraries.
+
 PulseAudio development libraries.
+
 Optional - libudev (build with udev=yes).
+
 
 ### Compiling from Source for other systems
 
