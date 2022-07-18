@@ -23,9 +23,9 @@ to the last line of engine code.
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
-### Compiling for Windows
+## Compiling for Windows
 
-## Requirements
+### Requirements
 
 [Visual Studio Community](https://www.visualstudio.com/vs/community/), version 2017 or later. VS 2019 is recommended.
 
@@ -35,9 +35,9 @@ to the last line of engine code.
 
 [SCons](https://www.scons.org/) build system. Using the latest release is recommended, especially for proper support of recent Visual Studio releases.
 
-### Compiling for Linux
+## Compiling for Linux
 
-## Requirements
+### Requirements
 For compiling under Linux or other Unix variants, the following is required:
 
 
