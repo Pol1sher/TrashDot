@@ -60,7 +60,7 @@ PulseAudio development libraries.
 Optional - libudev (build with udev=yes).
 
 
-### Compiling from Source for other systems
+## Compiling from Source for other systems
 
 [See the official godot docs](https://docs.godotengine.org/en/latest/development/compiling/)
 for compilation instructions for every supported platform.
